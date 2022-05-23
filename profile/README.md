@@ -1,6 +1,6 @@
 <h1 align=center> Better Connect 🚆 </h1>
 
-Created in 2022, Better Connect is a personal project that consists in recreating the SNCF Connect tool in a version that we think is better.
+Created in 2022, Better Connect is a personal project that consists in recreating the SNCF Connect tool in a version that we think is better in our eyes.
 
 
 We decided to do this with the tools and know-how we had acquired ourselves during our studies at Epitech.
