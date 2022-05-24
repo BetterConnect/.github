@@ -21,3 +21,8 @@ Follow us here 👥
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
+
+# Dev Team
+
+| [<img src="https://github.com/LayBraid.png?size=85" width=85><br><sub>Clément Loeuillet</sub>](https://github.com/LayBraid) | [<img src="https://github.com/matheograil.png?size=85" width=85><br><sub>Mathéo Grail</sub>](https://github.com/matheograil) | [<img src="https://github.com/Eddieklai.png?size=85" width=85><br><sub>Eddie Klaï</sub>](https://github.com/Eddieklai) |
+|:---------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
